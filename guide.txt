@@ -1,0 +1,6 @@
+//bulding using node express
+//create server/app
+//routes
+//implement controllers and route handler
+
+//using environment variables
